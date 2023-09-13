@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["62895386194665@s.whatsapp.net", "+1 (843) 989-0841@s.whatsapp.net"],
+    "ownerName": "FnkYy",
+    "youtube": "https://www.youtube.com/@PT LEMON",
+    "gcwa": "https://chat.whatsapp.com/GkKdaHxHBeHK2A1d2Gq4kf",
+    "botName": "xfordོ ",
+    "footer": "2023 © FnkYy",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Faallz.jpg",
+    "BotKey": "UXBF84mKM8Cn66e",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false,
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": true,
+    "gcount": {
+        "prem": true,
+        "user": true
+    }
+}
